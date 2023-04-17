@@ -1,0 +1,17 @@
+
+									***YUGANDHAR BANK OF INDIA***
+
+ACCOUNT NO. :370106307
+CUSTOMER NAME:Mr./Mrs: kalyan
+S/D/W/H/O NAME : kavya
+D.O.B:19/07/2001
+																						Branch Manger
+
+
+=================================================================================================================================================
+
+
+
+S.NO			DEPOSITE		WITHDRAWL			BALANCE
+1   			 15000 			 0 					 15000
+2   			 0  			 5000 			     10000
